@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white) ![](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) ![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### 🌱 Database
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
 ### 🌱 Tools
 ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![](https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
