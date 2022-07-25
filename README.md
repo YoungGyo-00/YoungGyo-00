@@ -7,7 +7,8 @@
 # 🛠 Tech Stack 🛠
 ### 🌱 Programming Language
 ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) 
+![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 
 ### 🌱 Framework
