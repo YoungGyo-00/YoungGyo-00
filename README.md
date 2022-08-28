@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![YoungGyo-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungGyo-00&show_icons=true&theme=gruvbox&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungGyo-00&layout=compact&theme=tokyonight&exclude_repo=python-kaggle&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungGyo-00&layout=compact&theme=tokyonight&exclude_repo=python-kaggle,ML&langs_count=3)
 
 ---
 # 🛠 Tech Stack 🛠
