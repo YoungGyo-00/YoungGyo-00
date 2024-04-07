@@ -1,6 +1,8 @@
 ### Hi, I'm YoungGyo Lee 👋
 - My Major is Computer Science at Hongik Univ.<br/>
 - I am interested in Distributed Networks and DevSecOps.
+  
+  ![YoungGyo-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungGyo-00&show_icons=true&theme=gruvbox&count_private=true)
 
 ### Experience
 - **CUBOX, Intern**
@@ -58,7 +60,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br/>
-
-![YoungGyo-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungGyo-00&show_icons=true&theme=gruvbox&count_private=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungGyo-00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
