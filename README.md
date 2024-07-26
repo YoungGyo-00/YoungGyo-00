@@ -1,8 +1,6 @@
 ### Hi, I'm YoungGyo Lee 👋
 - My Major is Computer Science at Hongik Univ.<br/>
 - I am interested in Distributed Networks and DevSecOps.
-  
-  ![YoungGyo-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungGyo-00&show_icons=true&theme=gruvbox&count_private=true)
 
 ### Experience
 - **CUBOX, Intern**
