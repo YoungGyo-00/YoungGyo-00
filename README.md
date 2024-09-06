@@ -1,5 +1,5 @@
 ### Hi, I'm YoungGyo Lee 👋
-- My Major is Computer Science at Hongik Univ.<br/>
+- My Major is Computer Science.<br/>
 - I am interested in Distributed Networks and DevSecOps.
 
 ### Experience
@@ -8,8 +8,8 @@
 
   Designing the infrastructure for data management and communication with external networks
 
-- **APL, Hongik Undergraduate Research Intern**
-  > Researcher |  Jul.2023 - Now  |  Hongik Univ
+- **APL, Undergraduate Research Intern**
+  > Researcher |  Jul.2023 - Now  |  Univ
 
   Designing a network for Web 3.0 decentralized environments and conducting research on data integrity and network security with docker container
 
@@ -17,8 +17,8 @@
 - **KB Laschool**
   > Mentor  |  Feb.2022 - Dec.2022  | Seoul, Korea
 
-- **GDSC Hongik 1st**
-  > Backend |  Sep.2022 - Aug.2023  | Hongik Univ
+- **GDSC**
+  > Backend |  Sep.2022 - Aug.2023  | Univ
 
 - **Samsung DreamClass**
   > Mentor  |  Aug.2023 - Jan.2024  | Seoul, Korea
