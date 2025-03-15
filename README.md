@@ -1,5 +1,5 @@
 ### Hi, I'm YoungGyo Lee 👋
-- My Major is Computer Science.<br/>
+- My Major is Computer Science at Hongik Univ.<br/>
 - I am interested in Distributed Networks and DevSecOps.
 
 ### Experience
@@ -9,16 +9,21 @@
   Designing the infrastructure for data management and communication with external networks
 
 - **APL, Undergraduate Research Intern**
-  > Researcher |  Jul.2023 - Now  |  Univ
+  > Researcher |  Jul.2023 - Dec.2024  |  Hongik Univ
 
   Designing a network for Web 3.0 decentralized environments and conducting research on data integrity and network security with docker container
+
+- **KB Kookmin Bank, Assistant manager**
+  > Cloud Security Architect | Dec.2024 - Now | Seoul, Korea
+
+  Designing and implementing Zero Trust security in cloud environments, focusing on access control and network segmentation.
 
 ### Activity
 - **KB Laschool**
   > Mentor  |  Feb.2022 - Dec.2022  | Seoul, Korea
 
-- **GDSC**
-  > Backend |  Sep.2022 - Aug.2023  | Univ
+- **GDSC Hongik**
+  > Backend |  Sep.2022 - Aug.2023  | Hongik Univ
 
 - **Samsung DreamClass**
   > Mentor  |  Aug.2023 - Jan.2024  | Seoul, Korea
@@ -27,7 +32,7 @@
   > Backend |  Sep.2023 - Feb.2024  | Seoul, Korea
   
 - **CEOS: Sinchon IT Foundation Society 19th**
-  > Backend Mentor | Feb.2024 - Now | Seoul, Korea
+  > Backend Mentor | Feb.2024 - Aug.2024 | Seoul, Korea
 
 ### Award & Research
 - **The 4th KB Kookmin Bank Software Development Competition, Encouragement Prize🏆**
